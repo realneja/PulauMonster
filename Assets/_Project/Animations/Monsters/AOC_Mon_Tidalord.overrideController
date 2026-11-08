@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_Mon_Tidalord
+  m_Controller: {fileID: 9100000, guid: fa13a3cc1559a41c2b3f600ae6906602, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 41f063c41a54146429c08787562d2856, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bf08986d1e4404850856c70935d4fff4, type: 2}
